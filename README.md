@@ -9,6 +9,7 @@
 | [0152-maximum-product-subarray](https://github.com/aadyanair/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0485-max-consecutive-ones](https://github.com/aadyanair/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/aadyanair/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/aadyanair/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2505-number-of-good-paths](https://github.com/aadyanair/LeetCode/tree/master/2505-number-of-good-paths) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/aadyanair/LeetCode/tree/master/2508-maximum-sum-of-an-hourglass) |
 ## Backtracking
@@ -37,11 +38,13 @@
 ## Matrix
 |  |
 | ------- |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/aadyanair/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/aadyanair/LeetCode/tree/master/2508-maximum-sum-of-an-hourglass) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/aadyanair/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/aadyanair/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 ## Tree
 |  |
 | ------- |
@@ -53,9 +56,26 @@
 ## Graph
 |  |
 | ------- |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/aadyanair/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2505-number-of-good-paths](https://github.com/aadyanair/LeetCode/tree/master/2505-number-of-good-paths) |
 ## Sorting
 |  |
 | ------- |
 | [2505-number-of-good-paths](https://github.com/aadyanair/LeetCode/tree/master/2505-number-of-good-paths) |
+## Depth-First Search
+|  |
+| ------- |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/aadyanair/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/aadyanair/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
+## Topological Sort
+|  |
+| ------- |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/aadyanair/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
+## Memoization
+|  |
+| ------- |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/aadyanair/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 <!---LeetCode Topics End-->

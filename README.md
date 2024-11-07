@@ -11,4 +11,16 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/aadyanair/LeetCode/tree/master/0051-n-queens) |
+## Hash Table
+|  |
+| ------- |
+| [1261-swap-for-longest-repeated-character-substring](https://github.com/aadyanair/LeetCode/tree/master/1261-swap-for-longest-repeated-character-substring) |
+## String
+|  |
+| ------- |
+| [1261-swap-for-longest-repeated-character-substring](https://github.com/aadyanair/LeetCode/tree/master/1261-swap-for-longest-repeated-character-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [1261-swap-for-longest-repeated-character-substring](https://github.com/aadyanair/LeetCode/tree/master/1261-swap-for-longest-repeated-character-substring) |
 <!---LeetCode Topics End-->

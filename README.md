@@ -9,6 +9,7 @@
 | [0152-maximum-product-subarray](https://github.com/aadyanair/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0485-max-consecutive-ones](https://github.com/aadyanair/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/aadyanair/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/aadyanair/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/aadyanair/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2505-number-of-good-paths](https://github.com/aadyanair/LeetCode/tree/master/2505-number-of-good-paths) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/aadyanair/LeetCode/tree/master/2508-maximum-sum-of-an-hourglass) |

@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/aadyanair/LeetCode/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/aadyanair/LeetCode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/aadyanair/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0238-product-of-array-except-self](https://github.com/aadyanair/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/aadyanair/LeetCode/tree/master/0283-move-zeroes) |
@@ -57,6 +58,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/aadyanair/LeetCode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/aadyanair/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/aadyanair/LeetCode/tree/master/0392-is-subsequence) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/aadyanair/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
@@ -116,4 +118,8 @@
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/aadyanair/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/aadyanair/LeetCode/tree/master/0605-can-place-flowers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/aadyanair/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->

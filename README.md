@@ -102,6 +102,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/aadyanair/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/aadyanair/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -132,4 +133,8 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aadyanair/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/aadyanair/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->

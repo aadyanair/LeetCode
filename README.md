@@ -75,6 +75,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aadyanair/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/aadyanair/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aadyanair/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aadyanair/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [2505-number-of-good-paths](https://github.com/aadyanair/LeetCode/tree/master/2505-number-of-good-paths) |
@@ -96,12 +97,14 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aadyanair/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/aadyanair/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aadyanair/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aadyanair/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/aadyanair/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/aadyanair/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/aadyanair/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 ## Topological Sort
 |  |
@@ -166,6 +169,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aadyanair/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/aadyanair/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aadyanair/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aadyanair/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Recursion

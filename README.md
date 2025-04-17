@@ -75,6 +75,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aadyanair/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/aadyanair/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [2505-number-of-good-paths](https://github.com/aadyanair/LeetCode/tree/master/2505-number-of-good-paths) |
 ## Union Find
 |  |
@@ -94,6 +95,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aadyanair/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/aadyanair/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/aadyanair/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 ## Breadth-First Search
 |  |
@@ -153,6 +155,7 @@
 | [0032-longest-valid-parentheses](https://github.com/aadyanair/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/aadyanair/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/aadyanair/LeetCode/tree/master/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/aadyanair/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aadyanair/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/aadyanair/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/aadyanair/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -160,6 +163,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aadyanair/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/aadyanair/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Recursion
 |  |
 | ------- |

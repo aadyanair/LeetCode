@@ -14,6 +14,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/aadyanair/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/aadyanair/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/aadyanair/LeetCode/tree/master/0605-can-place-flowers) |
+| [0954-maximum-sum-circular-subarray](https://github.com/aadyanair/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/aadyanair/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/aadyanair/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/aadyanair/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
@@ -67,6 +68,7 @@
 | [0053-maximum-subarray](https://github.com/aadyanair/LeetCode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/aadyanair/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/aadyanair/LeetCode/tree/master/0392-is-subsequence) |
+| [0954-maximum-sum-circular-subarray](https://github.com/aadyanair/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/aadyanair/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 ## Tree
 |  |
@@ -141,6 +143,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/aadyanair/LeetCode/tree/master/0053-maximum-subarray) |
+| [0954-maximum-sum-circular-subarray](https://github.com/aadyanair/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Stack
 |  |
 | ------- |
@@ -173,8 +176,13 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/aadyanair/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/aadyanair/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0954-maximum-sum-circular-subarray](https://github.com/aadyanair/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Counting
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/aadyanair/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/aadyanair/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->

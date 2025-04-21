@@ -7,6 +7,7 @@
 | ------- |
 | [0051-n-queens](https://github.com/aadyanair/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/aadyanair/LeetCode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/aadyanair/LeetCode/tree/master/0054-spiral-matrix) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aadyanair/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/aadyanair/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0238-product-of-array-except-self](https://github.com/aadyanair/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -60,6 +61,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/aadyanair/LeetCode/tree/master/0054-spiral-matrix) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/aadyanair/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/aadyanair/LeetCode/tree/master/2508-maximum-sum-of-an-hourglass) |
 ## Dynamic Programming
@@ -221,4 +223,8 @@
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/aadyanair/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/aadyanair/LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->

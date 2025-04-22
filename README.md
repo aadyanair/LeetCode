@@ -10,6 +10,7 @@
 | [0054-spiral-matrix](https://github.com/aadyanair/LeetCode/tree/master/0054-spiral-matrix) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aadyanair/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/aadyanair/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/aadyanair/LeetCode/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/aadyanair/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/aadyanair/LeetCode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/aadyanair/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
@@ -74,6 +75,7 @@
 | [0032-longest-valid-parentheses](https://github.com/aadyanair/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/aadyanair/LeetCode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/aadyanair/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/aadyanair/LeetCode/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/aadyanair/LeetCode/tree/master/0392-is-subsequence) |
 | [0954-maximum-sum-circular-subarray](https://github.com/aadyanair/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/aadyanair/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |

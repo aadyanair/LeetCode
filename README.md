@@ -25,6 +25,7 @@
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/aadyanair/LeetCode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2505-number-of-good-paths](https://github.com/aadyanair/LeetCode/tree/master/2505-number-of-good-paths) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/aadyanair/LeetCode/tree/master/2508-maximum-sum-of-an-hourglass) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/aadyanair/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2892-check-if-array-is-good](https://github.com/aadyanair/LeetCode/tree/master/2892-check-if-array-is-good) |
 ## Backtracking
 |  |
@@ -43,6 +44,7 @@
 | [1016-subarray-sums-divisible-by-k](https://github.com/aadyanair/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/aadyanair/LeetCode/tree/master/1261-swap-for-longest-repeated-character-substring) |
 | [2505-number-of-good-paths](https://github.com/aadyanair/LeetCode/tree/master/2505-number-of-good-paths) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/aadyanair/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2892-check-if-array-is-good](https://github.com/aadyanair/LeetCode/tree/master/2892-check-if-array-is-good) |
 ## String
 |  |
@@ -63,6 +65,7 @@
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/aadyanair/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/aadyanair/LeetCode/tree/master/1261-swap-for-longest-repeated-character-substring) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/aadyanair/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Prefix Sum
 |  |
 | ------- |

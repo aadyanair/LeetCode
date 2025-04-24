@@ -36,6 +36,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/aadyanair/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aadyanair/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/aadyanair/LeetCode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/aadyanair/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/aadyanair/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/aadyanair/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -164,6 +165,7 @@
 | [0143-reorder-list](https://github.com/aadyanair/LeetCode/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/aadyanair/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aadyanair/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/aadyanair/LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/aadyanair/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/aadyanair/LeetCode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/aadyanair/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -173,6 +175,7 @@
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aadyanair/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0202-happy-number](https://github.com/aadyanair/LeetCode/tree/master/0202-happy-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/aadyanair/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/aadyanair/LeetCode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 ## Greedy

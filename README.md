@@ -15,6 +15,7 @@
 | [0238-product-of-array-except-self](https://github.com/aadyanair/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/aadyanair/LeetCode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/aadyanair/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
+| [0349-intersection-of-two-arrays](https://github.com/aadyanair/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/aadyanair/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/aadyanair/LeetCode/tree/master/0605-can-place-flowers) |
 | [0860-design-circular-queue](https://github.com/aadyanair/LeetCode/tree/master/0860-design-circular-queue) |
@@ -40,6 +41,7 @@
 | [0202-happy-number](https://github.com/aadyanair/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/aadyanair/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/aadyanair/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/aadyanair/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/aadyanair/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/aadyanair/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/aadyanair/LeetCode/tree/master/1261-swap-for-longest-repeated-character-substring) |
@@ -115,6 +117,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/aadyanair/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/aadyanair/LeetCode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2505-number-of-good-paths](https://github.com/aadyanair/LeetCode/tree/master/2505-number-of-good-paths) |
 | [2892-check-if-array-is-good](https://github.com/aadyanair/LeetCode/tree/master/2892-check-if-array-is-good) |
@@ -174,6 +177,7 @@
 | [0234-palindrome-linked-list](https://github.com/aadyanair/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/aadyanair/LeetCode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/aadyanair/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/aadyanair/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/aadyanair/LeetCode/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/aadyanair/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Math
@@ -263,4 +267,8 @@
 |  |
 | ------- |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/aadyanair/LeetCode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/aadyanair/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->

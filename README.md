@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/aadyanair/LeetCode/tree/master/0016-3sum-closest) |
 | [0051-n-queens](https://github.com/aadyanair/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/aadyanair/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/aadyanair/LeetCode/tree/master/0054-spiral-matrix) |
@@ -118,6 +119,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/aadyanair/LeetCode/tree/master/0016-3sum-closest) |
 | [0349-intersection-of-two-arrays](https://github.com/aadyanair/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/aadyanair/LeetCode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2505-number-of-good-paths](https://github.com/aadyanair/LeetCode/tree/master/2505-number-of-good-paths) |
@@ -171,6 +173,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/aadyanair/LeetCode/tree/master/0016-3sum-closest) |
 | [0061-rotate-list](https://github.com/aadyanair/LeetCode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/aadyanair/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/aadyanair/LeetCode/tree/master/0143-reorder-list) |

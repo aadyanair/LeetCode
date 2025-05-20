@@ -187,6 +187,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aadyanair/LeetCode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/aadyanair/LeetCode/tree/master/0007-reverse-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aadyanair/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/aadyanair/LeetCode/tree/master/0202-happy-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/aadyanair/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |

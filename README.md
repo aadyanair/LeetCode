@@ -154,6 +154,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/aadyanair/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/aadyanair/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/aadyanair/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/aadyanair/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
@@ -184,6 +185,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/aadyanair/LeetCode/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aadyanair/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/aadyanair/LeetCode/tree/master/0202-happy-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/aadyanair/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -228,6 +230,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/aadyanair/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/aadyanair/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/aadyanair/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/aadyanair/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |

@@ -19,6 +19,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/aadyanair/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/aadyanair/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/aadyanair/LeetCode/tree/master/0605-can-place-flowers) |
+| [0792-binary-search](https://github.com/aadyanair/LeetCode/tree/master/0792-binary-search) |
 | [0860-design-circular-queue](https://github.com/aadyanair/LeetCode/tree/master/0860-design-circular-queue) |
 | [0954-maximum-sum-circular-subarray](https://github.com/aadyanair/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/aadyanair/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -287,6 +288,7 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/aadyanair/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0792-binary-search](https://github.com/aadyanair/LeetCode/tree/master/0792-binary-search) |
 ## Merge Sort
 |  |
 | ------- |

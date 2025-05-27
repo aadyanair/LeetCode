@@ -73,6 +73,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/aadyanair/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/aadyanair/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/aadyanair/LeetCode/tree/master/0392-is-subsequence) |
+| [0812-rotate-string](https://github.com/aadyanair/LeetCode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/aadyanair/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/aadyanair/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/aadyanair/LeetCode/tree/master/1261-swap-for-longest-repeated-character-substring) |
@@ -324,4 +325,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/aadyanair/LeetCode/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/aadyanair/LeetCode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->

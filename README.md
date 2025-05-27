@@ -79,6 +79,7 @@
 | [1078-remove-outermost-parentheses](https://github.com/aadyanair/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/aadyanair/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/aadyanair/LeetCode/tree/master/1261-swap-for-longest-repeated-character-substring) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/aadyanair/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/aadyanair/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2032-largest-odd-number-in-string](https://github.com/aadyanair/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Sliding Window
@@ -246,6 +247,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/aadyanair/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/aadyanair/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/aadyanair/LeetCode/tree/master/1078-remove-outermost-parentheses) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/aadyanair/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Binary Tree
 |  |
 | ------- |

@@ -230,6 +230,7 @@
 | [0202-happy-number](https://github.com/aadyanair/LeetCode/tree/master/0202-happy-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/aadyanair/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/aadyanair/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [2050-count-good-numbers](https://github.com/aadyanair/LeetCode/tree/master/2050-count-good-numbers) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/aadyanair/LeetCode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 ## Greedy
 |  |
@@ -285,6 +286,7 @@
 | [0203-remove-linked-list-elements](https://github.com/aadyanair/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/aadyanair/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/aadyanair/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [2050-count-good-numbers](https://github.com/aadyanair/LeetCode/tree/master/2050-count-good-numbers) |
 ## Design
 |  |
 | ------- |

@@ -13,6 +13,7 @@
 | [0053-maximum-subarray](https://github.com/aadyanair/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/aadyanair/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/aadyanair/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/aadyanair/LeetCode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aadyanair/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aadyanair/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/aadyanair/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -44,6 +45,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/aadyanair/LeetCode/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/aadyanair/LeetCode/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/aadyanair/LeetCode/tree/master/0078-subsets) |
 ## Hash Table
 |  |
 | ------- |
@@ -348,4 +350,8 @@
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/aadyanair/LeetCode/tree/master/0812-rotate-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/aadyanair/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

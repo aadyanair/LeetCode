@@ -236,6 +236,7 @@
 | [0050-powx-n](https://github.com/aadyanair/LeetCode/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aadyanair/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/aadyanair/LeetCode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/aadyanair/LeetCode/tree/master/0231-power-of-two) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/aadyanair/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/aadyanair/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/aadyanair/LeetCode/tree/master/2050-count-good-numbers) |
@@ -293,6 +294,7 @@
 | [0143-reorder-list](https://github.com/aadyanair/LeetCode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/aadyanair/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/aadyanair/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/aadyanair/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/aadyanair/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [2050-count-good-numbers](https://github.com/aadyanair/LeetCode/tree/master/2050-count-good-numbers) |
 ## Design
@@ -361,4 +363,5 @@
 | ------- |
 | [0078-subsets](https://github.com/aadyanair/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/aadyanair/LeetCode/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/aadyanair/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->

@@ -72,6 +72,7 @@
 | [1016-subarray-sums-divisible-by-k](https://github.com/aadyanair/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/aadyanair/LeetCode/tree/master/1261-swap-for-longest-repeated-character-substring) |
 | [1370-count-number-of-nice-subarrays](https://github.com/aadyanair/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/aadyanair/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2505-number-of-good-paths](https://github.com/aadyanair/LeetCode/tree/master/2505-number-of-good-paths) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/aadyanair/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2892-check-if-array-is-good](https://github.com/aadyanair/LeetCode/tree/master/2892-check-if-array-is-good) |
@@ -98,6 +99,7 @@
 | [1078-remove-outermost-parentheses](https://github.com/aadyanair/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/aadyanair/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/aadyanair/LeetCode/tree/master/1261-swap-for-longest-repeated-character-substring) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/aadyanair/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/aadyanair/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/aadyanair/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2032-largest-odd-number-in-string](https://github.com/aadyanair/LeetCode/tree/master/2032-largest-odd-number-in-string) |
@@ -109,6 +111,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/aadyanair/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/aadyanair/LeetCode/tree/master/1261-swap-for-longest-repeated-character-substring) |
 | [1370-count-number-of-nice-subarrays](https://github.com/aadyanair/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/aadyanair/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/aadyanair/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Prefix Sum
 |  |

@@ -33,6 +33,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/aadyanair/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/aadyanair/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/aadyanair/LeetCode/tree/master/0605-can-place-flowers) |
+| [0621-task-scheduler](https://github.com/aadyanair/LeetCode/tree/master/0621-task-scheduler) |
 | [0792-binary-search](https://github.com/aadyanair/LeetCode/tree/master/0792-binary-search) |
 | [0860-design-circular-queue](https://github.com/aadyanair/LeetCode/tree/master/0860-design-circular-queue) |
 | [0907-koko-eating-bananas](https://github.com/aadyanair/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -73,6 +74,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/aadyanair/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/aadyanair/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/aadyanair/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0621-task-scheduler](https://github.com/aadyanair/LeetCode/tree/master/0621-task-scheduler) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/aadyanair/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/aadyanair/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/aadyanair/LeetCode/tree/master/1261-swap-for-longest-repeated-character-substring) |
@@ -180,6 +182,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/aadyanair/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/aadyanair/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/aadyanair/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0621-task-scheduler](https://github.com/aadyanair/LeetCode/tree/master/0621-task-scheduler) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/aadyanair/LeetCode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2505-number-of-good-paths](https://github.com/aadyanair/LeetCode/tree/master/2505-number-of-good-paths) |
 | [2892-check-if-array-is-good](https://github.com/aadyanair/LeetCode/tree/master/2892-check-if-array-is-good) |
@@ -272,6 +275,7 @@
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/aadyanair/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/aadyanair/LeetCode/tree/master/0605-can-place-flowers) |
+| [0621-task-scheduler](https://github.com/aadyanair/LeetCode/tree/master/0621-task-scheduler) |
 | [2032-largest-odd-number-in-string](https://github.com/aadyanair/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Divide and Conquer
 |  |
@@ -342,6 +346,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/aadyanair/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0621-task-scheduler](https://github.com/aadyanair/LeetCode/tree/master/0621-task-scheduler) |
 | [1034-subarrays-with-k-different-integers](https://github.com/aadyanair/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 ## Monotonic Queue
 |  |
@@ -356,6 +361,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/aadyanair/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aadyanair/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0621-task-scheduler](https://github.com/aadyanair/LeetCode/tree/master/0621-task-scheduler) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/aadyanair/LeetCode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 ## Number Theory
 |  |

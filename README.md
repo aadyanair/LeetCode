@@ -167,6 +167,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aadyanair/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/aadyanair/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/aadyanair/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/aadyanair/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2505-number-of-good-paths](https://github.com/aadyanair/LeetCode/tree/master/2505-number-of-good-paths) |
 ## Union Find
 |  |
@@ -317,6 +318,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aadyanair/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/aadyanair/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/aadyanair/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/aadyanair/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Recursion
 |  |
 | ------- |
@@ -337,6 +339,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/aadyanair/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/aadyanair/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/aadyanair/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0860-design-circular-queue](https://github.com/aadyanair/LeetCode/tree/master/0860-design-circular-queue) |
 ## Queue
 |  |
@@ -366,6 +369,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/aadyanair/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aadyanair/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0621-task-scheduler](https://github.com/aadyanair/LeetCode/tree/master/0621-task-scheduler) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/aadyanair/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/aadyanair/LeetCode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 ## Number Theory
 |  |
@@ -409,4 +413,12 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aadyanair/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/aadyanair/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/aadyanair/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->

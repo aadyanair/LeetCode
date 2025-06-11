@@ -13,6 +13,7 @@
 | [0051-n-queens](https://github.com/aadyanair/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/aadyanair/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/aadyanair/LeetCode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/aadyanair/LeetCode/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/aadyanair/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/aadyanair/LeetCode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aadyanair/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -154,6 +155,7 @@
 | [0022-generate-parentheses](https://github.com/aadyanair/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aadyanair/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/aadyanair/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/aadyanair/LeetCode/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/aadyanair/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/aadyanair/LeetCode/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/aadyanair/LeetCode/tree/master/0392-is-subsequence) |
@@ -286,6 +288,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/aadyanair/LeetCode/tree/master/0055-jump-game) |
 | [0334-increasing-triplet-subsequence](https://github.com/aadyanair/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/aadyanair/LeetCode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/aadyanair/LeetCode/tree/master/0605-can-place-flowers) |

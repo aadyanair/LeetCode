@@ -39,6 +39,7 @@
 | [0792-binary-search](https://github.com/aadyanair/LeetCode/tree/master/0792-binary-search) |
 | [0860-design-circular-queue](https://github.com/aadyanair/LeetCode/tree/master/0860-design-circular-queue) |
 | [0876-hand-of-straights](https://github.com/aadyanair/LeetCode/tree/master/0876-hand-of-straights) |
+| [0890-lemonade-change](https://github.com/aadyanair/LeetCode/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/aadyanair/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0954-maximum-sum-circular-subarray](https://github.com/aadyanair/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/aadyanair/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -288,6 +289,7 @@
 | [0605-can-place-flowers](https://github.com/aadyanair/LeetCode/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/aadyanair/LeetCode/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/aadyanair/LeetCode/tree/master/0876-hand-of-straights) |
+| [0890-lemonade-change](https://github.com/aadyanair/LeetCode/tree/master/0890-lemonade-change) |
 | [2032-largest-odd-number-in-string](https://github.com/aadyanair/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Divide and Conquer
 |  |

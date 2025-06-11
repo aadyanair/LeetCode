@@ -10,6 +10,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aadyanair/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/aadyanair/LeetCode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/aadyanair/LeetCode/tree/master/0039-combination-sum) |
+| [0045-jump-game-ii](https://github.com/aadyanair/LeetCode/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/aadyanair/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/aadyanair/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/aadyanair/LeetCode/tree/master/0054-spiral-matrix) |
@@ -154,6 +155,7 @@
 | [0010-regular-expression-matching](https://github.com/aadyanair/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/aadyanair/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aadyanair/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0045-jump-game-ii](https://github.com/aadyanair/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/aadyanair/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/aadyanair/LeetCode/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/aadyanair/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -288,6 +290,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/aadyanair/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/aadyanair/LeetCode/tree/master/0055-jump-game) |
 | [0334-increasing-triplet-subsequence](https://github.com/aadyanair/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/aadyanair/LeetCode/tree/master/0455-assign-cookies) |

@@ -87,6 +87,7 @@
 | [0621-task-scheduler](https://github.com/aadyanair/LeetCode/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/aadyanair/LeetCode/tree/master/0876-hand-of-straights) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/aadyanair/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/aadyanair/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/aadyanair/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/aadyanair/LeetCode/tree/master/1261-swap-for-longest-repeated-character-substring) |
 | [1370-count-number-of-nice-subarrays](https://github.com/aadyanair/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -187,6 +188,7 @@
 | [0404-sum-of-left-leaves](https://github.com/aadyanair/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/aadyanair/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/aadyanair/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/aadyanair/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2505-number-of-good-paths](https://github.com/aadyanair/LeetCode/tree/master/2505-number-of-good-paths) |
 ## Union Find
 |  |
@@ -210,6 +212,7 @@
 | [0455-assign-cookies](https://github.com/aadyanair/LeetCode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/aadyanair/LeetCode/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/aadyanair/LeetCode/tree/master/0876-hand-of-straights) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/aadyanair/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/aadyanair/LeetCode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2505-number-of-good-paths](https://github.com/aadyanair/LeetCode/tree/master/2505-number-of-good-paths) |
 | [2892-check-if-array-is-good](https://github.com/aadyanair/LeetCode/tree/master/2892-check-if-array-is-good) |
@@ -228,6 +231,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aadyanair/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/aadyanair/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/aadyanair/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/aadyanair/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/aadyanair/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 ## Breadth-First Search
 |  |
@@ -239,6 +243,7 @@
 | [0112-path-sum](https://github.com/aadyanair/LeetCode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/aadyanair/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/aadyanair/LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/aadyanair/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/aadyanair/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 ## Topological Sort
 |  |
@@ -360,6 +365,7 @@
 | [0404-sum-of-left-leaves](https://github.com/aadyanair/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/aadyanair/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/aadyanair/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/aadyanair/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Recursion
 |  |
 | ------- |

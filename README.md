@@ -161,6 +161,7 @@
 | [0045-jump-game-ii](https://github.com/aadyanair/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/aadyanair/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/aadyanair/LeetCode/tree/master/0055-jump-game) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/aadyanair/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/aadyanair/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/aadyanair/LeetCode/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/aadyanair/LeetCode/tree/master/0392-is-subsequence) |
@@ -176,6 +177,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/aadyanair/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/aadyanair/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/aadyanair/LeetCode/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/aadyanair/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aadyanair/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aadyanair/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/aadyanair/LeetCode/tree/master/0199-binary-tree-right-side-view) |
@@ -216,6 +218,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/aadyanair/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/aadyanair/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/aadyanair/LeetCode/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/aadyanair/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aadyanair/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aadyanair/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/aadyanair/LeetCode/tree/master/0199-binary-tree-right-side-view) |
@@ -342,6 +345,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/aadyanair/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/aadyanair/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/aadyanair/LeetCode/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/aadyanair/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aadyanair/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aadyanair/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/aadyanair/LeetCode/tree/master/0199-binary-tree-right-side-view) |

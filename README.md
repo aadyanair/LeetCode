@@ -111,6 +111,7 @@
 | [0020-valid-parentheses](https://github.com/aadyanair/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/aadyanair/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aadyanair/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0072-edit-distance](https://github.com/aadyanair/LeetCode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/aadyanair/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/aadyanair/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/aadyanair/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -166,6 +167,7 @@
 | [0045-jump-game-ii](https://github.com/aadyanair/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/aadyanair/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/aadyanair/LeetCode/tree/master/0055-jump-game) |
+| [0072-edit-distance](https://github.com/aadyanair/LeetCode/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aadyanair/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/aadyanair/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/aadyanair/LeetCode/tree/master/0198-house-robber) |

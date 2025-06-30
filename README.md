@@ -98,6 +98,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/aadyanair/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/aadyanair/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/aadyanair/LeetCode/tree/master/1261-swap-for-longest-repeated-character-substring) |
+| [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/aadyanair/LeetCode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1370-count-number-of-nice-subarrays](https://github.com/aadyanair/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aadyanair/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2505-number-of-good-paths](https://github.com/aadyanair/LeetCode/tree/master/2505-number-of-good-paths) |
@@ -296,6 +297,7 @@
 | [0328-odd-even-linked-list](https://github.com/aadyanair/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0860-design-circular-queue](https://github.com/aadyanair/LeetCode/tree/master/0860-design-circular-queue) |
 | [0908-middle-of-the-linked-list](https://github.com/aadyanair/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/aadyanair/LeetCode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 ## Two Pointers
 |  |
 | ------- |

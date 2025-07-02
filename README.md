@@ -136,6 +136,7 @@
 | [1894-merge-strings-alternately](https://github.com/aadyanair/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2032-largest-odd-number-in-string](https://github.com/aadyanair/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/aadyanair/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/aadyanair/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -157,6 +158,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/aadyanair/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/aadyanair/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/aadyanair/LeetCode/tree/master/2508-maximum-sum-of-an-hourglass) |
+| [3618-find-the-original-typed-string-ii](https://github.com/aadyanair/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -184,6 +186,7 @@
 | [0678-valid-parenthesis-string](https://github.com/aadyanair/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0954-maximum-sum-circular-subarray](https://github.com/aadyanair/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/aadyanair/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
+| [3618-find-the-original-typed-string-ii](https://github.com/aadyanair/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Tree
 |  |
 | ------- |

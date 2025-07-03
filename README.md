@@ -344,6 +344,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/aadyanair/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/aadyanair/LeetCode/tree/master/2050-count-good-numbers) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/aadyanair/LeetCode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/aadyanair/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Greedy
 |  |
 | ------- |
@@ -422,6 +423,7 @@
 | [0231-power-of-two](https://github.com/aadyanair/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/aadyanair/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [2050-count-good-numbers](https://github.com/aadyanair/LeetCode/tree/master/2050-count-good-numbers) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/aadyanair/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Design
 |  |
 | ------- |
@@ -452,6 +454,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/aadyanair/LeetCode/tree/master/0054-spiral-matrix) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/aadyanair/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -501,6 +504,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/aadyanair/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/aadyanair/LeetCode/tree/master/0231-power-of-two) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/aadyanair/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/aadyanair/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Quickselect
 |  |
 | ------- |

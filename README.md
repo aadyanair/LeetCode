@@ -44,6 +44,7 @@
 | [0485-max-consecutive-ones](https://github.com/aadyanair/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/aadyanair/LeetCode/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/aadyanair/LeetCode/tree/master/0621-task-scheduler) |
+| [0747-min-cost-climbing-stairs](https://github.com/aadyanair/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/aadyanair/LeetCode/tree/master/0792-binary-search) |
 | [0860-design-circular-queue](https://github.com/aadyanair/LeetCode/tree/master/0860-design-circular-queue) |
 | [0876-hand-of-straights](https://github.com/aadyanair/LeetCode/tree/master/0876-hand-of-straights) |
@@ -184,6 +185,7 @@
 | [0392-is-subsequence](https://github.com/aadyanair/LeetCode/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/aadyanair/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/aadyanair/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0747-min-cost-climbing-stairs](https://github.com/aadyanair/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0954-maximum-sum-circular-subarray](https://github.com/aadyanair/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/aadyanair/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [3618-find-the-original-typed-string-ii](https://github.com/aadyanair/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |

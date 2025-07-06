@@ -187,6 +187,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/aadyanair/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/aadyanair/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/aadyanair/LeetCode/tree/master/0198-house-robber) |
+| [0279-perfect-squares](https://github.com/aadyanair/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/aadyanair/LeetCode/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/aadyanair/LeetCode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/aadyanair/LeetCode/tree/master/0416-partition-equal-subset-sum) |
@@ -280,6 +281,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/aadyanair/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/aadyanair/LeetCode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/aadyanair/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0279-perfect-squares](https://github.com/aadyanair/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/aadyanair/LeetCode/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/aadyanair/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0617-merge-two-binary-trees](https://github.com/aadyanair/LeetCode/tree/master/0617-merge-two-binary-trees) |
@@ -350,6 +352,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/aadyanair/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/aadyanair/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/aadyanair/LeetCode/tree/master/0231-power-of-two) |
+| [0279-perfect-squares](https://github.com/aadyanair/LeetCode/tree/master/0279-perfect-squares) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/aadyanair/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1370-count-number-of-nice-subarrays](https://github.com/aadyanair/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/aadyanair/LeetCode/tree/master/2032-largest-odd-number-in-string) |

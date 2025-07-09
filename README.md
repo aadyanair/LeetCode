@@ -71,6 +71,7 @@
 | [2508-maximum-sum-of-an-hourglass](https://github.com/aadyanair/LeetCode/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/aadyanair/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2892-check-if-array-is-good](https://github.com/aadyanair/LeetCode/tree/master/2892-check-if-array-is-good) |
+| [3031-construct-product-matrix](https://github.com/aadyanair/LeetCode/tree/master/3031-construct-product-matrix) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/aadyanair/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Backtracking
 |  |
@@ -172,6 +173,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/aadyanair/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/aadyanair/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/aadyanair/LeetCode/tree/master/2508-maximum-sum-of-an-hourglass) |
+| [3031-construct-product-matrix](https://github.com/aadyanair/LeetCode/tree/master/3031-construct-product-matrix) |
 | [3618-find-the-original-typed-string-ii](https://github.com/aadyanair/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Matrix
 |  |
@@ -181,6 +183,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/aadyanair/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/aadyanair/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/aadyanair/LeetCode/tree/master/2508-maximum-sum-of-an-hourglass) |
+| [3031-construct-product-matrix](https://github.com/aadyanair/LeetCode/tree/master/3031-construct-product-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |

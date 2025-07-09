@@ -193,6 +193,7 @@
 | [0045-jump-game-ii](https://github.com/aadyanair/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/aadyanair/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/aadyanair/LeetCode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/aadyanair/LeetCode/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/aadyanair/LeetCode/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/aadyanair/LeetCode/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aadyanair/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -368,6 +369,7 @@
 | [0007-reverse-integer](https://github.com/aadyanair/LeetCode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/aadyanair/LeetCode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/aadyanair/LeetCode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/aadyanair/LeetCode/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aadyanair/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/aadyanair/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/aadyanair/LeetCode/tree/master/0231-power-of-two) |
@@ -566,4 +568,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/aadyanair/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/aadyanair/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->

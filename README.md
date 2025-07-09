@@ -70,6 +70,7 @@
 | [2508-maximum-sum-of-an-hourglass](https://github.com/aadyanair/LeetCode/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/aadyanair/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2892-check-if-array-is-good](https://github.com/aadyanair/LeetCode/tree/master/2892-check-if-array-is-good) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/aadyanair/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -161,6 +162,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aadyanair/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/aadyanair/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/aadyanair/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/aadyanair/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -387,6 +389,7 @@
 | [0890-lemonade-change](https://github.com/aadyanair/LeetCode/tree/master/0890-lemonade-change) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/aadyanair/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2032-largest-odd-number-in-string](https://github.com/aadyanair/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/aadyanair/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Divide and Conquer
 |  |
 | ------- |

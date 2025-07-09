@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aadyanair/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/aadyanair/LeetCode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/aadyanair/LeetCode/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/aadyanair/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aadyanair/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -337,6 +338,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/aadyanair/LeetCode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/aadyanair/LeetCode/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aadyanair/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/aadyanair/LeetCode/tree/master/0061-rotate-list) |
@@ -377,6 +379,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/aadyanair/LeetCode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/aadyanair/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/aadyanair/LeetCode/tree/master/0055-jump-game) |
 | [0334-increasing-triplet-subsequence](https://github.com/aadyanair/LeetCode/tree/master/0334-increasing-triplet-subsequence) |

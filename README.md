@@ -72,6 +72,7 @@
 | [2856-count-complete-subarrays-in-an-array](https://github.com/aadyanair/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2892-check-if-array-is-good](https://github.com/aadyanair/LeetCode/tree/master/2892-check-if-array-is-good) |
 | [3031-construct-product-matrix](https://github.com/aadyanair/LeetCode/tree/master/3031-construct-product-matrix) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/aadyanair/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/aadyanair/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Backtracking
 |  |
@@ -397,6 +398,7 @@
 | [0890-lemonade-change](https://github.com/aadyanair/LeetCode/tree/master/0890-lemonade-change) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/aadyanair/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2032-largest-odd-number-in-string](https://github.com/aadyanair/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/aadyanair/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/aadyanair/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Divide and Conquer
 |  |
@@ -572,4 +574,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/aadyanair/LeetCode/tree/master/0062-unique-paths) |
+## Enumeration
+|  |
+| ------- |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/aadyanair/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 <!---LeetCode Topics End-->

@@ -213,6 +213,7 @@
 | [0954-maximum-sum-circular-subarray](https://github.com/aadyanair/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1250-longest-common-subsequence](https://github.com/aadyanair/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/aadyanair/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/aadyanair/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/aadyanair/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [3618-find-the-original-typed-string-ii](https://github.com/aadyanair/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Tree
@@ -315,6 +316,7 @@
 ## Memoization
 |  |
 | ------- |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/aadyanair/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/aadyanair/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 ## Linked List
 |  |

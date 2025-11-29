@@ -19,6 +19,7 @@
 | [0055-jump-game](https://github.com/aadyanair/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/aadyanair/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/aadyanair/LeetCode/tree/master/0057-insert-interval) |
+| [0073-set-matrix-zeroes](https://github.com/aadyanair/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/aadyanair/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/aadyanair/LeetCode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aadyanair/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -94,6 +95,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/aadyanair/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/aadyanair/LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aadyanair/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0073-set-matrix-zeroes](https://github.com/aadyanair/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/aadyanair/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/aadyanair/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aadyanair/LeetCode/tree/master/0142-linked-list-cycle-ii) |
@@ -186,6 +188,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/aadyanair/LeetCode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/aadyanair/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/aadyanair/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aadyanair/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/aadyanair/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |

@@ -67,6 +67,7 @@
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/aadyanair/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/aadyanair/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/aadyanair/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/aadyanair/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/aadyanair/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/aadyanair/LeetCode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2505-number-of-good-paths](https://github.com/aadyanair/LeetCode/tree/master/2505-number-of-good-paths) |
@@ -277,6 +278,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/aadyanair/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/aadyanair/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/aadyanair/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/aadyanair/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/aadyanair/LeetCode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2505-number-of-good-paths](https://github.com/aadyanair/LeetCode/tree/master/2505-number-of-good-paths) |
 | [2892-check-if-array-is-good](https://github.com/aadyanair/LeetCode/tree/master/2892-check-if-array-is-good) |
@@ -409,6 +411,7 @@
 | [0890-lemonade-change](https://github.com/aadyanair/LeetCode/tree/master/0890-lemonade-change) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/aadyanair/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2032-largest-odd-number-in-string](https://github.com/aadyanair/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/aadyanair/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/aadyanair/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/aadyanair/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Divide and Conquer
@@ -541,6 +544,7 @@
 | [0792-binary-search](https://github.com/aadyanair/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/aadyanair/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/aadyanair/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/aadyanair/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Merge Sort
 |  |
 | ------- |

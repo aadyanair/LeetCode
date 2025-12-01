@@ -13,6 +13,7 @@
 | [0035-search-insert-position](https://github.com/aadyanair/LeetCode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/aadyanair/LeetCode/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/aadyanair/LeetCode/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/aadyanair/LeetCode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/aadyanair/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/aadyanair/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/aadyanair/LeetCode/tree/master/0054-spiral-matrix) |
@@ -188,6 +189,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/aadyanair/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/aadyanair/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/aadyanair/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/aadyanair/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -382,6 +384,7 @@
 | [0002-add-two-numbers](https://github.com/aadyanair/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/aadyanair/LeetCode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/aadyanair/LeetCode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/aadyanair/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/aadyanair/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/aadyanair/LeetCode/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aadyanair/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |

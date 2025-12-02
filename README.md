@@ -76,6 +76,7 @@
 | [2856-count-complete-subarrays-in-an-array](https://github.com/aadyanair/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2892-check-if-array-is-good](https://github.com/aadyanair/LeetCode/tree/master/2892-check-if-array-is-good) |
 | [3031-construct-product-matrix](https://github.com/aadyanair/LeetCode/tree/master/3031-construct-product-matrix) |
+| [3623-count-number-of-trapezoids-i](https://github.com/aadyanair/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/aadyanair/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/aadyanair/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Backtracking
@@ -126,6 +127,7 @@
 | [2505-number-of-good-paths](https://github.com/aadyanair/LeetCode/tree/master/2505-number-of-good-paths) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/aadyanair/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2892-check-if-array-is-good](https://github.com/aadyanair/LeetCode/tree/master/2892-check-if-array-is-good) |
+| [3623-count-number-of-trapezoids-i](https://github.com/aadyanair/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
 ## String
 |  |
 | ------- |
@@ -398,6 +400,7 @@
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/aadyanair/LeetCode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/aadyanair/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/aadyanair/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3623-count-number-of-trapezoids-i](https://github.com/aadyanair/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
 ## Greedy
 |  |
 | ------- |
@@ -598,4 +601,8 @@
 |  |
 | ------- |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/aadyanair/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+## Geometry
+|  |
+| ------- |
+| [3623-count-number-of-trapezoids-i](https://github.com/aadyanair/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
 <!---LeetCode Topics End-->

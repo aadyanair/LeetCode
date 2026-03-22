@@ -300,6 +300,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/aadyanair/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aadyanair/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/aadyanair/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/aadyanair/LeetCode/tree/master/0207-course-schedule) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aadyanair/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/aadyanair/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/aadyanair/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -317,6 +318,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/aadyanair/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/aadyanair/LeetCode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/aadyanair/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/aadyanair/LeetCode/tree/master/0207-course-schedule) |
 | [0279-perfect-squares](https://github.com/aadyanair/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/aadyanair/LeetCode/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/aadyanair/LeetCode/tree/master/0404-sum-of-left-leaves) |
@@ -327,6 +329,7 @@
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/aadyanair/LeetCode/tree/master/0207-course-schedule) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/aadyanair/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 ## Memoization
 |  |
@@ -605,4 +608,8 @@
 |  |
 | ------- |
 | [3623-count-number-of-trapezoids-i](https://github.com/aadyanair/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/aadyanair/LeetCode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
